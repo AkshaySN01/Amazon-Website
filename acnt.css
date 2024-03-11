@@ -1,0 +1,73 @@
+.logo{
+    width: 150px !important;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.div1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px ;
+    width: 400px;
+    height: fit-content;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin: auto;
+}
+
+.btn{
+    margin: auto;
+    padding: auto;
+    width: 350px;
+}
+
+.text{
+    width: 350px;
+}
+
+.text1{
+    width: 350px;
+}
+
+.line{
+    width:550px;
+    margin-top: 10px;
+    padding-right: 200px;
+    height: 30px;
+}
+
+.newtoamazon{
+    color:grey;
+    width: 400px;
+    margin:auto
+}
+
+.text2{
+    color: grey;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.button{
+    background-color: white;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding:5px;
+    height: fit-content;
+    margin-top: 15px;
+    width: 400px;
+}
+
+.btn-wrap{
+    text-align: center;
+}
+
+.button:hover{
+    background-color: rgb(235, 233, 233);
+}
+
+.text:focus{
+    background-color: #FAFEFF;
+    border-color: #55858E;
+}

@@ -1,0 +1,46 @@
+.main{
+    height: 100%;
+    background-image: linear-gradient(#09B7F4,#09B7F4, transparent);
+}
+
+.main-ad{
+    height: 300;
+    width: 100%;
+    background-image: url("hero-img.jpg");
+    background-position: center;
+    background-size: cover;
+    border:0 transparent;
+}
+
+.shop{
+    padding-top: 20px;
+}
+.shop-images{
+    margin-right: none;
+    padding: 20px;
+    display:flex;
+}
+
+.shop-box{
+    padding: 2%;
+    margin: none;
+    background-color: white;
+}
+
+.foot{
+    background-color:#232F3E;
+    color: white;
+}
+
+.footer{
+    font-size: smaller;
+    display:inline-block;
+    padding-right:0;
+    padding-left: 250px;
+    width:400px ;
+}
+
+a:link,.a:visited,.a:hover,.a:active{
+    text-decoration: none;
+    color: white;
+}
